@@ -7,7 +7,6 @@ def get_char(char)
   }
   morse_dict[char]
 end
-
 puts get_char('.-') #=> A
 def get_word(arr)
   word = ''
