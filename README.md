@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet) 
-
 # Morse Code Challenge
 
 > Morse code project is used to decode messages written using morse symbols.
