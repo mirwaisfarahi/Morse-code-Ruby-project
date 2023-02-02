@@ -17,8 +17,8 @@
 
 👤 **Mirwais Farahi**
 
-- GitHub: [@githubhandle](https://github.com/mirwaisfarahi)
-- Twitter: [@twitterhandle](https://twitter.com/farahi92)
+- GitHub: [@mirwais](https://github.com/mirwaisfarahi)
+- Twitter: [@mirwais](https://twitter.com/farahi92)
 - LinkedIn: [@mirwais](https://linkedin.com/in/mirwais_farahi)
 
 
