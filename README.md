@@ -154,8 +154,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Hat tip to Microverse's code reviewers and to everyone who reviewed my project and made suggestions.
-
 If you like this project then please give a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -164,7 +162,7 @@ If you like this project then please give a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for their support in this project.
+Hat tip to Microverse's code reviewers and to everyone who reviewed my project and made suggestions.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
