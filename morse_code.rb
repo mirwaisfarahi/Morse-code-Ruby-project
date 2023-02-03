@@ -5,15 +5,15 @@ def get_char(char)
     '---' => 'O', '.--.' => 'P', '--.-' => 'Q', '.-.' => 'R', '...' => 'S',
     '-' => 'T', '..-' => 'U', '...-' => 'V', '.--' => 'W', '-..-' => 'X', '-.--' => 'Y', '--..' => 'Z'
   }
-  morse_dict[char]
+  morse_dict[char] || nil
 end
-puts get_char('.-') #=> A
+puts "\"#{get_char('.-')}\"" #=> "A"
 def get_word(arr)
   word = ''
   arr.split.each { |i| word += get_char(i) }
   word
 end
-puts get_word('-- -.--') #=> MY
+puts "\"#{get_word('-- -.--')}\"" #=> "MY"
 
 def decode(str)
   sentese = ''
@@ -22,4 +22,7 @@ def decode(str)
   sentese
 end
 x = decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
-puts x
+y = decode('-- -.--   -. .- -- .')
+
+puts "\"#{y}\"" #=> "MY NAME"
+puts "\"#{x}\"" #=> "A BOX FULL OF RUBIES"
